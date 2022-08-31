@@ -4,7 +4,7 @@
 |       Course name| Grade      | Link to material| 
 | ---------------- | ----------- | --------------- |
 | [Intorudction to Data Science](http://files.skoltech.ru/data/edu/syllabuses/2021/MA030111.pdf?v=mfdn6y)  |  ✔   |   ✔   |      
-| Introduction to Computer Vision   |     ✔      |    ✔     |     
+| Introduction to Computer Vision   |     89.85% (A)     |    ✔     |     
 | Numerical Linear Algebra |     ✔      |    ✔    | 
 | Statistical Natural Language Processing |     ✔      |    ✔    | 
 | Machine Learning|     ✔      |    ✔    | 
